@@ -24,4 +24,4 @@ $(djnago) python -m pip install -r requirements.txt
 $(djnago) cd profileRESTApi//
 $(djnago) python manage.py runserver
 ```
-Go to URL [http://127.0.0.1](http://127.0.0.1)
+Go to URL [http://127.0.0.1:8000](http://127.0.0.1:8000)
